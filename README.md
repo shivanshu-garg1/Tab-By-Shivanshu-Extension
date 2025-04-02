@@ -13,12 +13,16 @@ This folder contains the final build of the **Tab By Shivanshu** Chrome extensio
 
 ## Installation
 
-1. Download the latest release from [Tab-By-Shivanshu-Extension](#)
+1. Download the latest release from [Tab-By-Shivanshu-Extension](https://github.com/shivanshu-garg1/Tab-By-Shivanshu-Extension)
 2. Extract the ZIP file to a preferred location.
 3. Open Google Chrome and navigate to `chrome://extensions/`.
 4. Enable **Developer Mode** (toggle in the top-right corner).
 5. Click **Load unpacked** and select the `dist` folder.
 6. The extension will now be installed and ready to use.
+
+## Source Code
+
+If you want to see the code of this extension, visit the repository: [Tab-By-Shivanshu](https://github.com/shivanshu-garg1/Tab-By-Shivanshu)
 
 ## Author
 Developed by **Shivanshu Garg**
