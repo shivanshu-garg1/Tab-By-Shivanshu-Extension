@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 1,
   "name": "Tab-by-shivanshu",
   "version": "1.0",
   "description": "A custom new tab page with quotes, weather, search, todo, and theme.",
